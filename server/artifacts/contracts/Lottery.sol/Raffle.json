@@ -1,0 +1,18 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Raffle",
+  "sourceName": "contracts/Lottery.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "enterRaffle",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50606d80601d6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c80632cfcc53914602d575b600080fd5b60336035565b005b56fea26469706673582212201fcd47948c0d95318f609cac8bae16bd0a1ce821b999bd8e6ee10ed58e02b5ee64736f6c634300080e0033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c80632cfcc53914602d575b600080fd5b60336035565b005b56fea26469706673582212201fcd47948c0d95318f609cac8bae16bd0a1ce821b999bd8e6ee10ed58e02b5ee64736f6c634300080e0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

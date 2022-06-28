@@ -26,7 +26,8 @@ function Header() {
         })
     }, [])
   return (
-    <div className="header">
+    <div className="p-5 border-b-2 flex flex-row">
+    <h1 className="py-4 px-4 font-bold text-3xl">Decentralized Lottery</h1>
     {account ? (
         <div>
             Connected to {account.slice(0,6)}...{account.slice(account.length - 4)}
